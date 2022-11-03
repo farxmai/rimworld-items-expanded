@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Items Expanded Pack</name>
+  <packageId>Farxmai2.VanillaItemsExpandedPack</packageId>
+  <author>Farxmai2</author>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+  </loadAfter>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>This mod adds several useful items to the game, such as new weapons, apparels and tools.</description>
+</ModMetaData>
