@@ -10,4 +10,7 @@
     <li>1.4</li>
   </supportedVersions>
   <description>This mod adds several useful items to the game, such as new weapons, apparels and tools.</description>
+  <loadAfter>
+    <li>vanillaexpanded.achievements</li>
+  </loadAfter>
 </ModMetaData>
