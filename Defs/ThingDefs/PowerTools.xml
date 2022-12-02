@@ -24,7 +24,6 @@
     <burnableByRecipe>true</burnableByRecipe>
     <thingCategories>
       <li>WeaponsMelee</li>
-      <li>Tool</li>
     </thingCategories>
     <weaponTags>
       <li>PowerTool</li>

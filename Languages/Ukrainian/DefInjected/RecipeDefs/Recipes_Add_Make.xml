@@ -29,12 +29,12 @@
   <Make_FWE_CircularSaw.description>зробити різак.</Make_FWE_CircularSaw.description>
   <Make_FWE_CircularSaw.jobString>Виготовляє різак.</Make_FWE_CircularSaw.jobString>
 
-  <Make_FWE_StoneBoer.label>зробити відбійний молоток</Make_FWE_StoneBoer.label>
-  <Make_FWE_StoneBoer.description>зробити відбійний молоток.</Make_FWE_StoneBoer.description>
-  <Make_FWE_StoneBoer.jobString>Виготовляє відбійний молоток.</Make_FWE_StoneBoer.jobString>
+  <Make_FWE_StoneBoer.label>зробити ручний бур</Make_FWE_StoneBoer.label>
+  <Make_FWE_StoneBoer.description>зробити ручний бур.</Make_FWE_StoneBoer.description>
+  <Make_FWE_StoneBoer.jobString>Виготовляє ручний бур.</Make_FWE_StoneBoer.jobString>
 
-  <Make_FWE_Screwdriver.label>зробити дриль</Make_FWE_Screwdriver.label>
-  <Make_FWE_Screwdriver.description>зробити дриль.</Make_FWE_Screwdriver.description>
-  <Make_FWE_Screwdriver.jobString>Виготовляє дриль.</Make_FWE_Screwdriver.jobString>
+  <Make_FWE_Screwdriver.label>зробити шуруповерт</Make_FWE_Screwdriver.label>
+  <Make_FWE_Screwdriver.description>зробити шуруповерт.</Make_FWE_Screwdriver.description>
+  <Make_FWE_Screwdriver.jobString>Виготовляє шуруповерт.</Make_FWE_Screwdriver.jobString>
 
 </LanguageData>
