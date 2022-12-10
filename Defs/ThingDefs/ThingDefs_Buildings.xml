@@ -3,7 +3,7 @@
 	<ThingDef ParentName="BuildingBase">
 		<defName>FFE_WoodFiredHeater</defName>
 		<label>wood-fired heater</label>
-		<description>Simple steal stove with chimney for space heating.</description>
+		<description>Simple steal wood-fired heater with chimney for space heating. Heats the room to a comfortable temperature, but the power cannot be changed.</description>
 		<thingClass>Building_Heater</thingClass>
 		<category>Building</category>
 		<graphicData>
