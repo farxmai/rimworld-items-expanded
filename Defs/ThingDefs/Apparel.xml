@@ -110,7 +110,7 @@
     <generateCommonality>0.1</generateCommonality>
     <costStuffCount>100</costStuffCount>
     <costList>
-      <Plasteel>100</Plasteel>
+      <Plasteel>50</Plasteel>
       <ComponentSpacer>5</ComponentSpacer>
     </costList>
     <stuffCategories>
