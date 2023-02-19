@@ -23,7 +23,7 @@
     <smeltable>true</smeltable>
     <burnableByRecipe>true</burnableByRecipe>
     <thingCategories>
-      <li>WeaponsMelee</li>
+      <li>FIE_WeaponsTools</li>
     </thingCategories>
     <weaponTags>
       <li>PowerTool</li>
