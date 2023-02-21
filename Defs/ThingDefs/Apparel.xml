@@ -8,7 +8,7 @@
       <li>Leathery</li>
     </stuffCategories>
     <thingCategories>
-      <li>Apparel</li>
+      <li>ApparelUtility</li>
     </thingCategories>
     <apparel>
       <careIfWornByCorpse>false</careIfWornByCorpse>
@@ -106,21 +106,32 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <techLevel>Spacer</techLevel>
-    <tradeability>Sellable</tradeability>
+
     <generateCommonality>0.1</generateCommonality>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
     <costStuffCount>100</costStuffCount>
     <costList>
       <Plasteel>50</Plasteel>
       <ComponentSpacer>5</ComponentSpacer>
     </costList>
-    <stuffCategories>
-      <li>Fabric</li>
-    </stuffCategories>
+    <tradeTags>
+      <li>ExoticMisc</li>
+      <li>HiTechArmor</li>
+    </tradeTags>
+    <thingCategories>
+      <li>ApparelArmor</li>
+    </thingCategories>
+    <thingSetMakerTags>
+      <li>RewardStandardHighFreq</li>
+    </thingSetMakerTags>
+
     <statBases>
       <Mass>1.6</Mass>
       <WorkToMake>40000</WorkToMake>
       <MaxHitPoints>420</MaxHitPoints>
-      <MarketValue>6500</MarketValue>
+      <MarketValue>3500</MarketValue>
       <ArmorRating_Sharp>0.1</ArmorRating_Sharp>
       <ArmorRating_Blunt>0.1</ArmorRating_Blunt>
       <ArmorRating_Heat>0.3</ArmorRating_Heat>
@@ -133,6 +144,7 @@
       <SellPriceFactor>0.75</SellPriceFactor>
       <EquipDelay>5</EquipDelay>
     </statBases>
+
     <equippedStatOffsets>
       <MoveSpeed>3.0</MoveSpeed>
       <WorkSpeedGlobal>0.30</WorkSpeedGlobal>
@@ -149,14 +161,14 @@
       <MeleeDodgeChance>0.2</MeleeDodgeChance>
       <CarryingCapacity>150</CarryingCapacity>
     </equippedStatOffsets>
-    <thingCategories>
-      <li>Apparel</li>
-    </thingCategories>
+
     <apparel>
       <canBeDesiredForIdeo MayRequire="Ludeon.RimWorld.Ideology">true</canBeDesiredForIdeo>
       <developmentalStageFilter MayRequire="Ludeon.RimWorld.Biotech">Child, Adult</developmentalStageFilter>
       <tags>
+        <li>SpacerMilitary</li>
         <li>Outlander</li>
+        <li>Orbital</li>
         <li>Royal</li>
       </tags>
       <defaultOutfitTags>
@@ -177,6 +189,7 @@
         <li>Hands</li>
       </bodyPartGroups>
     </apparel>
+
     <recipeMaker>
       <researchPrerequisite>PoweredArmor</researchPrerequisite>
       <unfinishedThingDef>UnfinishedMetallicTechArmor</unfinishedThingDef>
@@ -191,6 +204,7 @@
         <Crafting>15</Crafting>
       </skillRequirements>
     </recipeMaker>
+
     <colorGenerator Class="ColorGenerator_Options">
       <options>
         <li>
